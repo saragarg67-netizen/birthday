@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Happybirthday/static/js/main.755c77b1.js",
+    "static/media/7.png": "/Happybirthday/static/media/7.16aa375708f7d15d743c.png",
+    "static/media/4.jpg": "/Happybirthday/static/media/4.2b8f46fb982d8e232e22.jpg",
+    "static/media/6.jpg": "/Happybirthday/static/media/6.33d1159422d8be330e50.jpg",
+    "static/media/5.jpg": "/Happybirthday/static/media/5.4a3ebd8a30c66c7ed8d8.jpg",
+    "static/media/2.jpg": "/Happybirthday/static/media/2.c3ffd95b190ffaa3370f.jpg",
+    "static/media/3.jpg": "/Happybirthday/static/media/3.039b086b13633290c979.jpg",
+    "static/media/1.jpg": "/Happybirthday/static/media/1.d97cd2d2a133cfa11618.jpg",
+    "index.html": "/Happybirthday/index.html",
+    "main.755c77b1.js.map": "/Happybirthday/static/js/main.755c77b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.755c77b1.js"
+  ]
+}
